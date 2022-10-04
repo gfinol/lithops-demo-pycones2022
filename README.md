@@ -8,4 +8,4 @@ Video de la charla: [Próximamente]
 
 - [Web de Lithops](https://lithops-cloud.github.io/)
 - [Documentación de Lithops](https://lithops-cloud.github.io/docs/)
-- [Github](https://github.com/lithops-cloud/lithops)
+- [Github de Lithops](https://github.com/lithops-cloud/lithops)
